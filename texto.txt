@@ -1,3 +1,4 @@
 un texto
-¿Cómo estás?
-Bien. ¿Vos?
+Este es un texto, borré dos lineas
+Ahora voy a agregar tres lineas
+Esta es la ultima linea
